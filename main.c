@@ -2,6 +2,6 @@
 
 int main()
 {
-    // @TODO: print a sentence you want.
+    FDU is in Shanghai.
     printf("Hello, world!\n");
 }
