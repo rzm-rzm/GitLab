@@ -2,6 +2,6 @@
 
 int main()
 {
-    FDU is in Shanghai.
+    FDU is in Beijing.
     printf("Hello, world!\n");
 }
